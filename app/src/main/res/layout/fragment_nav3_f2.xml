@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="xir2n01.remidiuts.telkomschid.navigasi.Nav3F2Fragment">
+    tools:context="xir6n04.remidiuts.telkomschid.navigasi.Nav3F2Fragment">
 
     <!-- TODO: Update blank fragment layout -->
     <LinearLayout
